@@ -1,0 +1,2 @@
+cd build
+./RayTracer.exe
